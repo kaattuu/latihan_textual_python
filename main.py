@@ -5,8 +5,8 @@
 # Method compose()    : Cara menyusun widget di dalam aplikasi.
 # Method mount()      : Cara menambahkan widget secara dinamis saat aplikasi berjalan.
 
-from src.a_fondasi_dasar import a_instalasi_dan_stup
-# from src.a_fondasi_dasar import b_app_class
+# from src.a_fondasi_dasar import a_instalasi_dan_stup
+from src.a_fondasi_dasar import b_app_class
 # from src.a_fondasi_dasar import c_method_compose
 # from src.a_fondasi_dasar import d_method_mount
 
